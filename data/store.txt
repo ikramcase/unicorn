@@ -1,0 +1,116 @@
+ID: 8857
+Name: ajar-milagro
+Capability: [super strong sing cry]
+
+
+ID: 635
+Name: impossible-sloane
+Capability: [swim dance fly]
+ID: 8967
+Name: tempting-doria
+Capability: [code run swim]
+ID: 1781
+Name: gifted-quiana
+Capability: [fly code run]
+ID: 7548
+Name: unkempt-meg
+Capability: [change color design walk]
+ID: 4281
+Name: old-eusebio
+Capability: [talk chinese design fullfill wishes]
+ID: 8925
+Name: unequaled-angelique
+Capability: [fly lazy sing]
+ID: 6805
+Name: overjoyed-greyson
+Capability: [super strong run walk]
+ID: 9578
+Name: wonderful-mozell
+Capability: [drive lazy fullfill wishes]
+ID: 3394
+Name: shrill-louann
+Capability: [walk fullfill wishes fly]
+ID: 6110
+Name: trusty-victor
+Capability: [talk fighting capabilities talk chinese]
+ID: 5204
+Name: paltry-serita
+Capability: [lazy run drive]
+ID: 4716
+Name: shocking-elba
+Capability: [super strong change color cry]
+ID: 394
+Name: virtuous-fleta
+Capability: [dance swim talk]
+ID: 6654
+Name: few-rosio
+Capability: [fighting capabilities  fly]
+ID: 3458
+Name: hard-bettyann
+Capability: [fly talk chinese design]
+ID: 5159
+Name: rough-nedra
+Capability: [fly code cry]
+ID: 4133
+Name: pointed-nina
+Capability: [cry swim fullfill wishes]
+ID: 8309
+Name: hungry-jacques
+Capability: [talk chinese walk code]
+ID: 5043
+Name: hard-to-find-geri
+Capability: [talk drive ]
+ID: 9919
+Name: growling-porsche
+Capability: [run code design]
+ID: 4918
+Name: boring-maddison
+Capability: [dance lazy change color]
+ID: 994
+Name: nasty-leon
+Capability: [talk chinese change color fly]
+ID: 6967
+Name: impossible-milly
+Capability: [fullfill wishes change color fly]
+ID: 7887
+Name: understated-larissa
+Capability: [walk fighting capabilities super strong]
+ID: 3363
+Name: unnatural-tana
+Capability: [talk chinese sing super strong]
+ID: 458
+Name: specific-particia
+Capability: [super strong lazy design]
+ID: 1426
+Name: sardonic-kelvin
+Capability: [walk talk chinese dance]
+ID: 4742
+Name: right-minnie
+Capability: [ change color code]
+ID: 4321
+Name: breakable-cleo
+Capability: [fly run walk]
+ID: 8131
+Name: noxious-dakota
+Capability: [change color sing talk chinese]
+ID: 9135
+Name: international-thresa
+Capability: [talk chinese lazy fullfill wishes]
+ID: 5505
+Name: able-trina
+Capability: [super strong swim design]
+ID: 1623
+Name: orange-nidia
+Capability: [talk chinese  swim]
+ID: 7599
+Name: artistic-reyna
+Capability: [cry change color dance]
+ID: 9668
+Name: unlawful-hayes
+Capability: [drive talk chinese lazy]
+ID: 5375
+Name: crushing-russel
+Capability: [sing run drive]
+ID: 3594
+Name: informal-kamron
+Capability: [run sing change color]
